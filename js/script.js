@@ -1,1 +1,2 @@
-console.log("Привет мир!");
+console.log("Учим JS");
+console.log("JS");
