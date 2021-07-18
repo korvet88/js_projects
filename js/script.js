@@ -1,3 +1,4 @@
+"use strict";
 console.log("Учим JS");
 console.log("JS");
 
@@ -36,3 +37,10 @@ function inner(x, a){
 }
 
 console.log(inner(10,0.8));
+
+let x = document.masterofpuppets(".master");
+
+
+console.log(typeof x);
+console.log(x);
+
